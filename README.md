@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🐾 Jailbreaks-neko
+# 🐱 Jailbreaks-neko
 
 **A modular research repository of system prompts, agent operating specifications, persona frameworks, and directive configurations for frontier and open-weight language models.**
 
